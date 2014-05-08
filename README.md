@@ -29,6 +29,7 @@ I can now add to the counter.
 I based on the success with the incrementer, the decrement process should be working but continues to increment. Scratch that last. I was using the wrong import port to test. 
 
 Questions:
+
 1. All states 0
 
 2. PCLd is asserted, next state is Direct IO Execute
